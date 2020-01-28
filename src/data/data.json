@@ -14,7 +14,7 @@
   "count": 47,
   "collection": [
     {
-      "updated_at": "2019-07-07T21:18:37.988516-07:00",
+      "updated_at": "2020-01-28T21:18:37.988516-07:00",
       "type": "full",
       "token": "GRGoBLV0",
       "title": "Finnország a legboldogabb ország",
@@ -34,7 +34,7 @@
       "href": "https://api.simplecast.com/episodes/39917452-ddc9-4b42-8471-a07fc4487277?preview=true",
       "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
       "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2ac34c/2ac34cab-4949-40aa-bac7-d7e3a70f0a39/39917452-ddc9-4b42-8471-a07fc4487277/podcast_john_lindquist_with_jc_hiatt_v1_mp3_tc.mp3",
-      "description": "J.C Hiatt talks about what he did to organize the conference MagnoliaJS and why he did it to help his community. ",
+      "description": "Az első adásban bemutatkozunk, és megpróbáljuk megfejteni, hogy miért a legboldogabb ország Finnország.",
       "analytics": {
         "href": "https://api.simplecast.com/analytics/downloads?episode=39917452-ddc9-4b42-8471-a07fc4487277&preview=true"
       }

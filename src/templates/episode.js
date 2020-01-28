@@ -20,6 +20,7 @@ import { linkedin } from 'react-icons-kit/feather/linkedin'
 import { github } from 'react-icons-kit/feather/github'
 import { globe } from 'react-icons-kit/feather/globe'
 import { droplet } from 'react-icons-kit/feather/droplet'
+import { twitter } from 'react-icons-kit/feather/twitter'
 
 function EpisodeTemplate({ data: { episode, markdownRemark } }) {
   const image = markdownRemark && markdownRemark.frontmatter.image
@@ -147,6 +148,11 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
                           </a>
                         </li>
                         <li>
+                          <a target="_blank" href="https://twitter.com/zilahy">
+                          <Icon size="1.5em" icon={twitter} />
+                          </a>
+                        </li>
+                        <li>
                           <a target="_blank" href="https://github.com/zilahir">
                             <Icon size="1.5em" icon={github} />
                           </a>
@@ -154,11 +160,6 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
                         <li>
                           <a href="#">
                             <Icon size="1.5em" icon={linkedin} />
-                          </a>
-                        </li>
-                        <li>
-                          <a target="_blank" href="https://richardzilahi.hu">
-                            <Icon size="1.5em" icon={globe} />
                           </a>
                         </li>
                         <li>
@@ -178,7 +179,7 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
                         }}
                       >
                         <li>
-                          <a target="_blank" href="https://www.instagram.com/richardzilahi/">
+                          <a target="_blank" href="https://www.instagram.com/marzi_106/">
                             <Icon size="1.5em" icon={instagram} />
                           </a>
                         </li>
@@ -188,7 +189,9 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
               </>
               {markdown && markdown.frontmatter.resources && (
                 <>
-                  <h5>Resources</h5>
+                  {
+                    markdown.frontmatter.resources.length ? <h5>Linkek az adásból</h5> : null
+                  }
                   <ul>
                     {markdownRemark.frontmatter.resources.map(resource => (
                       <li
