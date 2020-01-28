@@ -19,6 +19,7 @@ import { instagram } from 'react-icons-kit/feather/instagram'
 import { linkedin } from 'react-icons-kit/feather/linkedin'
 import { github } from 'react-icons-kit/feather/github'
 import { globe } from 'react-icons-kit/feather/globe'
+import { droplet } from 'react-icons-kit/feather/droplet'
 
 function EpisodeTemplate({ data: { episode, markdownRemark } }) {
   const image = markdownRemark && markdownRemark.frontmatter.image
@@ -160,9 +161,29 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
                             <Icon size="1.5em" icon={globe} />
                           </a>
                         </li>
+                        <li>
+                          <a target="_blank" href="https://richardzilahi.hu">
+                            <Icon size="1.5em" icon={globe} />
+                          </a>
+                        </li>
                       </ul>
                     </li>
-                    <li>Marcell Kismartoni</li>
+                    <li>Marcell Kismartoni
+                    <ul
+                        sx={{
+                          margin: 0,
+                          paddingTop: '10px',
+                          display: 'flex',
+                          justifyContent: 'space-between'
+                        }}
+                      >
+                        <li>
+                          <a target="_blank" href="https://www.instagram.com/richardzilahi/">
+                            <Icon size="1.5em" icon={instagram} />
+                          </a>
+                        </li>
+                      </ul>
+                    </li>
                   </ul>
               </>
               {markdown && markdown.frontmatter.resources && (
