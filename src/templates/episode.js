@@ -14,6 +14,11 @@ import spotifyIcon from "../images/spotify.svg"
 import itunesIcon from "../images/apple.svg"
 import spotifyImage from "../images/Spotify_Logo_RGB_Green.png"
 import Header from "../components/episodeHeader"
+import Icon from 'react-icons-kit'
+import { instagram } from 'react-icons-kit/feather/instagram'
+import { linkedin } from 'react-icons-kit/feather/linkedin'
+import { github } from 'react-icons-kit/feather/github'
+import { globe } from 'react-icons-kit/feather/globe'
 
 function EpisodeTemplate({ data: { episode, markdownRemark } }) {
   const image = markdownRemark && markdownRemark.frontmatter.image
@@ -62,29 +67,18 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
                   a: { color: "text", textDecoration: "none" },
                 }}
               >
-                <Link
+                <a
                   sx={{
                     mb: 20,
                     display: "flex",
                     alignItems: "center",
                     img: { m: 0, mr: 10 },
                   }}
-                  to="/"
+                  href="https://open.spotify.com/show/417L1NONwduvFydJ5WBOrP?si=DdQfUqrnTPa_oRwrKoZMeg"
+                  target="_blank"
                 >
                   <img src={spotifyImage} width="90" />
-                </Link>
-                <Link
-                  sx={{
-                    mb: 20,
-                    display: "flex",
-                    alignItems: "center",
-                    img: { m: 0, mr: 10 },
-                  }}
-                  to="/"
-                >
-                  <img src={itunesIcon} />
-                  Apple Podcasts
-                </Link>
+                </a>
               </div>
               {markdown && (
                 <>
@@ -93,7 +87,6 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
                       sx={{
                         display: "flex",
                         flexDirection: "column",
-                        //alignItems: "center",
                       }}
                     >
                       <h5>Guest</h5>
@@ -119,6 +112,59 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
                   )}
                 </>
               )}
+              <>
+                  <h5>Mink</h5>
+                  <ul>
+                    <li>Ferenc Vilisics
+                    <ul
+                        sx={{
+                          margin: 0,
+                          paddingTop: '10px',
+                          display: 'flex',
+                          justifyContent: 'space-between'
+                        }}
+                      >
+                        <li>
+                          <a target="_blank" href="https://www.instagram.com/ferencvilisics/">
+                            <Icon size="1.5em" icon={instagram} />
+                          </a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>Richard Zilahi
+                      <ul
+                        sx={{
+                          margin: 0,
+                          paddingTop: '10px',
+                          display: 'flex',
+                          justifyContent: 'space-between'
+                        }}
+                      >
+                        <li>
+                          <a target="_blank" href="https://www.instagram.com/richardzilahi/">
+                            <Icon size="1.5em" icon={instagram} />
+                          </a>
+                        </li>
+                        <li>
+                          <a target="_blank" href="https://github.com/zilahir">
+                            <Icon size="1.5em" icon={github} />
+                          </a>
+                        </li>
+                        <li>
+                          <a href="#">
+                            <Icon size="1.5em" icon={linkedin} />
+                          </a>
+                        </li>
+                        <li>
+                          <a target="_blank" href="https://richardzilahi.hu">
+                            <Icon size="1.5em" icon={globe} />
+                          </a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>Marcell Kismartoni</li>
+                  </ul>
+              </>
               {markdown && markdown.frontmatter.resources && (
                 <>
                   <h5>Resources</h5>
