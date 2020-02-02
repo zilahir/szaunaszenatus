@@ -11,7 +11,7 @@
   },
   "dashboard_link": "",
   "create": null,
-  "count": 47,
+  "count": 1,
   "collection": [
     {
       "updated_at": "2020-01-28T21:18:37.988516-07:00",
@@ -26,14 +26,14 @@
       },
       "scheduled_for": null,
       "published_at": "2019-07-07T21:18:37.988429-07:00",
-      "number": 47,
+      "number": 1,
       "is_hidden": false,
       "image_url": "",
-      "image_path": "/prod/images/55d7f360-05c1-43af-9c2d-eb89e156734a/2965154a-b5d2-4479-ab85-6a8b06242014/j_c_hiatt.jpg",
+      "image_path": "",
       "id": "1abc",
       "href": "",
       "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
-      "enclosure_url": "https://cdn.simplecast.com/images/55d7f360-05c1-43af-9c2d-eb89e156734a/2965154a-b5d2-4479-ab85-6a8b06242014/j_c_hiatt.jpg",
+      "enclosure_url": "https://szaunaszenatus.s3-eu-west-1.amazonaws.com/ep1.mp3",
       "description": "Az első adásban bemutatkozunk, és megpróbáljuk megfejteni, hogy miért a legboldogabb ország Finnország.",
       "analytics": {
         "href": ""

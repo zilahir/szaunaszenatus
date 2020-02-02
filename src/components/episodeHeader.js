@@ -6,6 +6,7 @@ import {
   FaPlay as PlayIcon,
   FaExternalLinkAlt as ExternalLinkIcon,
 } from "react-icons/fa"
+import styles from '../styles/header.module.scss'
 
 function Header({ context, episode, image, ref }) {
   const playbtn = React.useRef(null)
@@ -13,7 +14,6 @@ function Header({ context, episode, image, ref }) {
   React.useEffect(() => {
     playbtn.current.focus()
   }, [])
-
   return (
     <header
       sx={{
@@ -31,7 +31,7 @@ function Header({ context, episode, image, ref }) {
         h5: { mt: 5, fontSize: 1, opacity: 0.6 },
       }}
     >
-      {image && <Img fluid={image.childImageSharp.fluid} />}
+      {image && <Img className={styles.coverImage} fluid={image.childImageSharp.fluid} />}
       <div
         sx={{
           position: "absolute",

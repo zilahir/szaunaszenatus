@@ -31,6 +31,7 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
   //   playbtn.current.focus()
   // }, [])
 
+  console.debug('markdownRemark', markdownRemark)
   return (
     <EpisodeConsumer>
       {context => (
