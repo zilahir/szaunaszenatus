@@ -41,7 +41,7 @@ function List() {
       {context => (
         <nav>
           <div sx={{ ml: 25, pb: 15 }}>
-            <h1 sx={{ fontSize: 6, color: "primary", mb: 0 }}>Podcast Name</h1>
+            <h1 sx={{ fontSize: 6, color: "primary", mb: 0 }}>Szauna Szenátus 🇫🇮</h1>
             <h5
               sx={{
                 textTransform: "uppercase",

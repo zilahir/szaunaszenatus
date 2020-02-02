@@ -1,11 +1,11 @@
 ---
-title: Podcast episode 1
-slug: podcast-episode-1
-summary: 'Summary. Lorem ipsum dolor sit amet.'
+title: Finnország a legboldogabb ország 
+slug: ep-01
+summary: 'Finnorság boldogsága, és ami mögötte van'
 id: 1abc
 number: 44
-resources: ['[Link](/)','[Link](/)','[Link](/)']
-guestName: 'Guest Name'
+resources: []
+guestName: ''
 guestSummary: '[Twitter](/)'
 image: null
 guestPhoto: null
