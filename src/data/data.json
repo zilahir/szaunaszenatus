@@ -1,15 +1,15 @@
 {
-  "href": "https://api.simplecast.com/podcasts/2ac34cab-4949-40aa-bac7-d7e3a70f0a39/episodes?limit=10",
+  "href": "",
   "pages": {
     "total": 5,
     "previous": null,
     "next": {
-      "href": "https://api.simplecast.com/podcasts/2ac34cab-4949-40aa-bac7-d7e3a70f0a39/episodes?limit=10&offset=10&private=true&status=importing%2Caudio_imported%2Ctranscoding%2Ctranscoding_error%2Cdraft%2Cscheduled%2Cpublished%2Cdirty%2Cprivate"
+      "href": ""
     },
     "limit": 10,
     "current": 1
   },
-  "dashboard_link": "https://dashboard.simplecast.com/shows/2ac34cab-4949-40aa-bac7-d7e3a70f0a39/episodes",
+  "dashboard_link": "",
   "create": null,
   "count": 47,
   "collection": [
@@ -21,22 +21,22 @@
       "status": "published",
       "slug": "podcast-episode-1",
       "season": {
-        "href": "https://api.simplecast.com/seasons/37157954-19df-4d38-9087-6fe015020f77",
+        "href": "",
         "number": 1
       },
       "scheduled_for": null,
       "published_at": "2019-07-07T21:18:37.988429-07:00",
       "number": 47,
       "is_hidden": false,
-      "image_url": "https://cdn.simplecast.com/images/55d7f360-05c1-43af-9c2d-eb89e156734a/2965154a-b5d2-4479-ab85-6a8b06242014/j_c_hiatt.jpg",
+      "image_url": "",
       "image_path": "/prod/images/55d7f360-05c1-43af-9c2d-eb89e156734a/2965154a-b5d2-4479-ab85-6a8b06242014/j_c_hiatt.jpg",
       "id": "1abc",
-      "href": "https://api.simplecast.com/episodes/39917452-ddc9-4b42-8471-a07fc4487277?preview=true",
+      "href": "",
       "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2ac34c/2ac34cab-4949-40aa-bac7-d7e3a70f0a39/39917452-ddc9-4b42-8471-a07fc4487277/podcast_john_lindquist_with_jc_hiatt_v1_mp3_tc.mp3",
+      "enclosure_url": "https://cdn.simplecast.com/images/55d7f360-05c1-43af-9c2d-eb89e156734a/2965154a-b5d2-4479-ab85-6a8b06242014/j_c_hiatt.jpg",
       "description": "Az első adásban bemutatkozunk, és megpróbáljuk megfejteni, hogy miért a legboldogabb ország Finnország.",
       "analytics": {
-        "href": "https://api.simplecast.com/analytics/downloads?episode=39917452-ddc9-4b42-8471-a07fc4487277&preview=true"
+        "href": ""
       }
     }
   ],
