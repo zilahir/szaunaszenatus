@@ -356,27 +356,6 @@ export default class Player extends React.Component {
               {tooltipTime}
             </div>
           </div>
-
-          {/* <div className="player__section player__section--right">
-          <button
-            onClick={this.speedUp}
-            onContextMenu={this.speedDown}
-            className="player__speed"
-            type="button"
-          >
-            <p>FASTNESS</p>
-            <span className="player__speeddisplay">{playbackRate} &times;</span>
-          </button>
-        </div> */}
-          {/* <div
-          className="player__volume"
-          style={{ display: "flex", width: "100%" }}
-        >
-          <p>LOUDNESS</p>
-          <div className="player__inputs">
-            <VolumeBars volume={this.volume} />
-          </div>
-        </div> */}
           <audio
             ref={audio => (this.audio = audio)}
             onPlay={this.playPause}

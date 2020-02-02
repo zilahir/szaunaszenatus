@@ -1,0 +1,21 @@
+.coverImage {
+    transition: all .4s ease;
+   &:before {
+        transition: all .4s ease;
+       content: '';
+       background-color: rgba($color: #0e2235, $alpha: 0.6);
+       position: absolute;
+       top: 0;
+       left: 0;
+       width: 100%;
+       height: 100%;
+       z-index: 9;
+   }
+   &:hover {
+       transition: all .4s ease;
+       &:before {
+           content: unset;
+       }
+       transition: all .4s ease;
+   }
+}

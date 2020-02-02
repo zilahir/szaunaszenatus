@@ -7,7 +7,7 @@ number: 44
 resources: []
 guestName: ''
 guestSummary: '[Twitter](/)'
-image: null
+image: './fin.jpg'
 guestPhoto: null
 ---
 
