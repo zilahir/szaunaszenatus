@@ -7,7 +7,7 @@
       "href": ""
     },
     "limit": 10,
-    "current": 1
+    "current": 2
   },
   "dashboard_link": "",
   "create": null,
@@ -25,16 +25,42 @@
         "number": 1
       },
       "scheduled_for": null,
-      "published_at": "2019-07-07T21:18:37.988429-07:00",
+      "published_at": "2020-01-28T21:18:37.988516-07:00",
       "number": 1,
       "is_hidden": false,
       "image_url": "",
       "image_path": "",
-      "id": "1abc",
+      "id": "szauna-szenatus-1",
       "href": "",
       "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
       "enclosure_url": "https://szaunaszenatus.s3-eu-west-1.amazonaws.com/ep1.mp3",
       "description": "Az első adásban bemutatkozunk, és megpróbáljuk megfejteni, hogy miért a legboldogabb ország Finnország.",
+      "analytics": {
+        "href": ""
+      }
+    },
+    {
+      "updated_at": "2020-02-05T21:18:37.988516-07:00",
+      "type": "full",
+      "token": "GRGoBLV0",
+      "title": "Munkát, kenyeret!",
+      "status": "published",
+      "slug": "podcast-episode-2",
+      "season": {
+        "href": "",
+        "number": 1
+      },
+      "scheduled_for": null,
+      "published_at": "2020-02-05T21:18:37.988516-07:00",
+      "number": 2,
+      "is_hidden": false,
+      "image_url": "",
+      "image_path": "",
+      "id": "szaunaszenatus-2",
+      "href": "",
+      "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
+      "enclosure_url": "https://szaunaszenatus.s3-eu-west-1.amazonaws.com/ep02.mp3",
+      "description": "Ebben az epizódban körbejárjuk a külföldi, de főleg a finnországi munkavállalást.",
       "analytics": {
         "href": ""
       }

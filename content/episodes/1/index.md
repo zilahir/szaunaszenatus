@@ -2,8 +2,8 @@
 title: Finnország a legboldogabb ország 
 slug: ep-01
 summary: 'Finnorság boldogsága, és ami mögötte van'
-id: 1abc
-number: 44
+id: szauna-szenatus-1
+number: 1
 resources: []
 guestName: ''
 guestSummary: '[Twitter](/)'

@@ -24,6 +24,7 @@ import { twitter } from 'react-icons-kit/feather/twitter'
 
 function EpisodeTemplate({ data: { episode, markdownRemark } }) {
   const image = markdownRemark && markdownRemark.frontmatter.image
+  console.debug('image', image)
   const markdown = markdownRemark && markdownRemark
 
   // const playbtn = React.useRef(null)
