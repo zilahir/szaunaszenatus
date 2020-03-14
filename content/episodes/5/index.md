@@ -7,7 +7,21 @@ number: 5
 image: './bear.jpg'
 ---
 
-lorem ipsum
+# Az adásban elhangzó ételek: 
+
+## Mämmi
+
+[Mämmi🇬🇧 1.](https://pap-tasters.blogspot.com/2013/03/the-big-mammi-test-summary.html)
+[Mämmi🇬🇧 2.](https://yle.fi/uutiset/osasto/news/love_it_or_hate_it_finlands_easter_mammi/7191109)
+[Mämmi🇭🇺 3.](https://ekozbenfinnben.blog.hu/2016/03/25/m_mmi_a_finn_husveti_borzalom)
+
+## Makaronilaatikko
+
+[Makaronilaatikko 🇬🇧 🎥](https://www.youtube.com/watch?v=svu306fZ5w8)
+
+## Porridge
+
+[Finnish breakfast 🇬🇧](https://herfinland.com/finnish-breakfast/)
 
 ---
 
