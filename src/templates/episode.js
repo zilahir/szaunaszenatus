@@ -93,7 +93,7 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
                         flexDirection: "column",
                       }}
                     >
-                      <h5>Guest</h5>
+                      <h5>Vendég</h5>
 
                       {markdown.frontmatter.guestPhoto && (
                         <Img

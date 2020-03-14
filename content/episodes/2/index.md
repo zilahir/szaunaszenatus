@@ -2,7 +2,7 @@
 title: Podcast episode 2
 slug: ep-02
 summary: 'Munkakeresés, boldougulás, finnországi magyar közösség.'
-id: szaunaszenatus-2
+id: szauna-szenatus-2
 number: 2
 image: './cover.jpg'
 guestName: ''

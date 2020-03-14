@@ -56,11 +56,89 @@
       "is_hidden": false,
       "image_url": "",
       "image_path": "",
-      "id": "szaunaszenatus-2",
+      "id": "szauna-szenatus-2",
       "href": "",
       "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
       "enclosure_url": "https://szaunaszenatus.s3-eu-west-1.amazonaws.com/ep02.mp3",
       "description": "Ebben az epizódban körbejárjuk a külföldi, de főleg a finnországi munkavállalást.",
+      "analytics": {
+        "href": ""
+      }
+    },
+    {
+      "updated_at": "2020-02-05T21:18:37.988516-07:00",
+      "type": "full",
+      "token": "GRGoBLV0",
+      "title": "Koronavíus és a tobzoska",
+      "status": "published",
+      "slug": "podcast-episode-3",
+      "season": {
+        "href": "",
+        "number": 1
+      },
+      "scheduled_for": null,
+      "published_at": "2020-02-05T21:18:37.988516-07:00",
+      "number": 3,
+      "is_hidden": false,
+      "image_url": "",
+      "image_path": "",
+      "id": "szauna-szenatus-3",
+      "href": "",
+      "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
+      "enclosure_url": "https://szaunaszenatus.s3-eu-west-1.amazonaws.com/ep02.mp3",
+      "description": "Hogy kerül a tobzoska a tányérra? Tudós vendégünkkel a koronavírusrol és az illegális allatkereskedelemrol beszélgetünk, de szó esik a klímaváltozásról és gr Festetics Imréről, aki világhírű is lehetne akár, csakhogy...",
+      "analytics": {
+        "href": ""
+      }
+    },
+    {
+      "updated_at": "2020-02-05T21:18:37.988516-07:00",
+      "type": "full",
+      "token": "GRGoBLV0",
+      "title": "Mit szeretünk Finnországban?",
+      "status": "published",
+      "slug": "podcast-episode-4",
+      "season": {
+        "href": "",
+        "number": 1
+      },
+      "scheduled_for": null,
+      "published_at": "2020-02-05T21:18:37.988516-07:00",
+      "number": 4,
+      "is_hidden": false,
+      "image_url": "",
+      "image_path": "",
+      "id": "szauna-szenatus-4",
+      "href": "",
+      "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
+      "enclosure_url": "https://szaunaszenatus.s3-eu-west-1.amazonaws.com/ep02.mp3",
+      "description": "Egy habkönnyű adásban beszéljük meg, hogy tulajdonképpen mit is szeretünk mi valójában Finnországban? Természetesen az árny oldala sem maradhat el, hiszen minden éremnek két oldala van.",
+      "analytics": {
+        "href": ""
+      }
+    },
+    {
+      "updated_at": "2020-02-05T21:18:37.988516-07:00",
+      "type": "full",
+      "token": "GRGoBLV0",
+      "title": "Medve sz-r",
+      "status": "published",
+      "slug": "podcast-episode-5",
+      "season": {
+        "href": "",
+        "number": 1
+      },
+      "scheduled_for": null,
+      "published_at": "2020-02-05T21:18:37.988516-07:00",
+      "number": 5,
+      "is_hidden": false,
+      "image_url": "",
+      "image_path": "",
+      "id": "szauna-szenatus-5",
+      "href": "",
+      "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
+      "enclosure_url": "https://szaunaszenatus.s3-eu-west-1.amazonaws.com/ep02.mp3",
+      "description": "Az eheti epizódban a konyhába kalauzolunk benneteket, és persze magunkat. Olyan dolgokról fog szó esni mint a finn kenyér, ételek, amelyeket kizárólag az év bizonyos ünnepnapjain lehet fogyasztani, vagy például Pasi Tuominen házimustárja. És még sokminden másról is.",
       "analytics": {
         "href": ""
       }
