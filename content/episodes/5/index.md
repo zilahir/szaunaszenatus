@@ -7,7 +7,7 @@ number: 45
 image: './banner-7.png'
 ---
 
-
+lorem ipsum
 
 ---
 
