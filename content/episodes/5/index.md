@@ -2,9 +2,9 @@
 title: Podcast episode 5
 slug: podcast-episode-5
 summary: 'Medvesz*r'
-id: 5abc
-number: 45
-image: './banner-7.png'
+id: szauna-szenatus-5
+number: 5
+image: './bear.jpg'
 ---
 
 lorem ipsum

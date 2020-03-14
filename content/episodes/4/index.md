@@ -3,7 +3,7 @@ title: Podcast episode 4
 slug: podcast-episode-4
 summary: ''
 id: szauna-szenatus-4
-number: 45
+number: 4
 image: './lake.jpg'
 ---
 
