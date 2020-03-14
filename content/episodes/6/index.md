@@ -1,7 +1,7 @@
 ---
 title: Podcast episode 6
 slug: podcast-episode-6
-summary: 'Summary. Lorem ipsum dolor sit amet.'
+summary: 'Talking about immigration and Finnish history'
 id: szauna-szenatus-6
 number: 6
 image: './passport.jpg'

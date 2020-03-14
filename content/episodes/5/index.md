@@ -1,7 +1,7 @@
 ---
 title: Podcast episode 5
 slug: podcast-episode-5
-summary: 'Medvesz*r'
+summary: 'Menjünk ki a konyhába!'
 id: szauna-szenatus-5
 number: 5
 image: './bear.jpg'

@@ -1,7 +1,7 @@
 ---
 title: Podcast episode 4
 slug: podcast-episode-4
-summary: ''
+summary: 'Nem tudunk nem beszélni a szaunáról. Újra.'
 id: szauna-szenatus-4
 number: 4
 image: './lake.jpg'
