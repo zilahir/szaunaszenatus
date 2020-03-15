@@ -57,6 +57,7 @@ export default {
         },
         width: "100%",
         maxWidth: 300,
+        paddingBottom: 150,
       },
       hr: {
         //color: "red",
