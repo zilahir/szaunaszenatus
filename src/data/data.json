@@ -173,7 +173,7 @@
       "updated_at": "2020-02-05T21:18:37.988516-07:00",
       "type": "full",
       "token": "GRGoBLV0",
-      "title": "Sportélaló",
+      "title": "Sportélapó",
       "status": "published",
       "slug": "podcast-episode-7",
       "season": {
@@ -191,6 +191,32 @@
       "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
       "enclosure_url": "https://szaunaszenatus.s3-eu-west-1.amazonaws.com/ep02.mp3",
       "description": "Immigration is a globally important topic. The immigration did not avoid Finland either, since we are also living here. But instead us just talking, we invited a Finnish guest, Lasse, to discuss about the immigration, Finland, and immigration in Finland.",
+      "analytics": {
+        "href": ""
+      }
+    },
+    {
+      "updated_at": "2020-02-05T21:18:37.988516-07:00",
+      "type": "full",
+      "token": "GRGoBLV0",
+      "title": "Fesztiválság",
+      "status": "published",
+      "slug": "podcast-episode-8",
+      "season": {
+        "href": "",
+        "number": 1
+      },
+      "scheduled_for": null,
+      "published_at": "2020-02-05T21:18:37.988516-07:00",
+      "number": 8,
+      "is_hidden": false,
+      "image_url": "",
+      "image_path": "",
+      "id": "szauna-szenatus-8",
+      "href": "",
+      "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
+      "enclosure_url": "https://szaunaszenatus.s3-eu-west-1.amazonaws.com/ep02.mp3",
+      "description": "",
       "analytics": {
         "href": ""
       }
