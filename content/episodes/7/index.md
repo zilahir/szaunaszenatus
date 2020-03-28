@@ -7,99 +7,75 @@ number: 7
 image: './teemupukki.jpg'
 ---
 
-Most kivetelesen beszelunk a focirol (is) mert egyebbkent a focirol beszeles a vilag egyik legfoloslegesebb dolga. A focit jatszani kell, akkor jo. Fosni a szot, a taktikarol, az atigazolasokrol, ki mit nyilatkozott, melyik csapat milyen vegeredmenyt jatszott ... Raadasul nezni a szabadidodben a vegtelen mennyisegu meccset tv-n, vagy lejatszani szamitogeben, hogy ott vegre Te nyerhetsz, az "átkozott" csapatoddal, ami soha nem jut olyan messze a valosagban.
-🌟MERT EZ PSZIHOLOGIA!
-“ Meccsre járni olyan, mint McDonald’sban enni – kicsit ciki, és az ember nem szívesen vallja be.”
-Harsányi Szabolcs Gergőt sportpszihologust idezve (Ö az Ujpestet es a magyar olimpikonokat kesziti fel): A foci tobb mint sport! Konkreten felmeresek szerint a vilag legnepszerubb soportja, megunhatatlan, örökzöld – megha sokan utaljak, akkor is ez van.
-– Benne van a vadaszat – gyujtögetes oskozossegig visszameno osztone. Igen, ez ugyanaz a töröl ered! EB sikerekkor kitört a focilaz otthon, „bizonytalan szavazókhoz hasonlo” elkapja öket a csordaszellem  vagy hordaszellem
-– Bizonytalansagi faktor, barki gyözhet (ez nem lefutott verseny, mint amikor Usain Bolt, vagy Hosszu Katinka kiall)
-Raadasul 1 arva les vagy tizenegyesgol is dönthet, nem megunhato, mint a "sokgolos" sportok
-– Veres haborukat behejettesito vertelen csata
-– Hozzáférhetőség. A legtöbb ember számára hozzáférhető sportról beszélünk, bárhol bármikor játszható, nem szükséges hozzá sok eszköz, ráadásul a legtöbb esetben anyagilag sem megterhelő, sem a sport űzése, sem egy meccs megtekintése.
+Most kivételesen beszélünk a fociról (is) mert egyébbként erről beszélni a világ egyik legfölöslegesebb dolga. A focit játszani kell, akkor jó. Szaporítani a szót, a taktikáról, az átigazolásokról, ki mit nyilatkozott, melyik csapat milyen végeredményt jatszott... Ráadásul nézni a szabadidődben a végtelen mennyiségű meccset tv-n, vagy lejátszani számítógépen, hogy ott végre TE nyerhetsz, az "átkozott" csapatoddal, ami soha nem jut olyan messze a valóságban.
 
-– Olimpiai sportág lesz-e az E-sport?
-– Lehet, hogy az 56-os forradalom kitörése is egy focimeccsen múlt?
+> MERT EZ PSZICHOLÓGIA KÉREM SZÉPEN!
 
-## A Finn foci
-Finnfoci - valoban csoda?- Markku Kanerva (Ö a finnek Rossija- direkt nem Guardiolot mondtam, ö a kulcs, hiaba sajnaljak le) na es a mikulassal Joulupukkival lassan egy nepszerusegre szert tevö Teemu Pukki (az egyetlen ma "merhetö" finn focisztar nemzetközi szinten, Norwich golzsakja a Premiere Leagueböl). Kanerva taktikai hozzaertese, mar az "5 meccses probaidös meloja" alatt nyilvanvalova valt. Messze jobb kepet mutatott mint a skot Baxter, a "fenyofa formacio Mikka-Matti Paatalainen vagy a öreg sved nagy nev vagyok, mar reg kiegtem "Hans Backe" edzö.
-A Pukki féle csapat menetelese: (mindig 1 gollall nyertek, egy Pukki gollal), 
-Sok bavandorlo, tomegek adjak az uj foci felemelkedeset.
+"Meccsre járni olyan, mint McDonald’sban enni – kicsit ciki, és az ember nem szívesen vallja be.” – Harsányi Szabolcs Gergőt sportpszihológust idézve (aki versenysportolókat készít fel). A foci több mint sport! Konkrétan felmérések szerint a világ legnépszerűbb sportja. Megunhatatlan, örökzöld – mégha sokan utalják, akkor is ez van.
 
-# Magyar vonatkozások
+- Benne van a vadászat – gyüjtögetés ősközösségig visszamenő ösztöne. Igen, ez ugyanaz a tőröl ered! EB sikerekkor kitört a fociláz otthon. „Bizonytalan szavazókhoz hasonló” jelenség. Elkapja őket a csordaszellem vagy hordaszellem.
+- Bizonytalansági faktor. Bárki gyözhet (ez nem lefutott verseny, mint amikor Usain Bolt, vagy Hosszú Katinka kiáll).... Ráadasul 1 árva les vagy tizenegyesgól is dönthet. Nem megunható, mint a "sokgólos" sportok.
+- Véres háborúkat behelyettesítő vértelen csata.
+– Hozzáférhetőség. A legtöbb ember számára hozzáférhető sportról beszélünk, bárhol bármikor játszható. Nem szükséges hozzá sok eszköz, ráadásul a legtöbb esetben anyagilag sem megterhelő. Sem a sport űzése, sem egy meccs megtekintése.
+– Olimpiai sportág lesz-e az E-sport? Lassan már az.
+– Lehet, hogy az 56-os forradalom kitörése is egy focimeccsen múlt? Részben.
 
-ÖSEPOSZ: az aranycsapat elso komoly tornagyozelmet itt aratta, az egyik arany a masik 16 olimpiai arany mellett.
-*Nagyapamnak is volt tanitvanya ezen az olimpian. Ö kb 5-6 olimpian volt kint, mint a magyar atletikai valogatott edzöje. Fent van az 50 magyar mesteredzö listan, legendas figura lehetett ahogy meselnek rola. Latta "az egyenes kezzel integetö rövidbajuszost" is par meterröl a Berlini olimpian.
+FINNFOCI
+Valóban csoda?- Markku Kanerva (A finnek Rossija- direkt nem Guardiolához hasonlítva. Ő a kulcs, habár lekicsinyítik sokan az érdemeit) na és a mikulással Joulupukkival lassan egy népszerűségre szert tevő Teemu Pukki (Az egyetlen ma "mérhetö" finn focisztár nemzetközi szinten. A Norwich gólzsákja a Premiere Leagueből.)
 
-Arrol, hogy a magyar valogatottal is volt szerencsenk eloben latni az utkozetuket SZAUNAZVA.
-Az egesz EB lehet elmarad a koronavirus miatt, es akkor mindenki szivhatja a fogat, mert MI hiaba nem jutunk ki, a tobbiek SE  😂😂 Van aki persze, mar elöre retteg, ha kijutnank az is rossz... Igazi halalcsoprtba kerulnenk a Ronaldos Portugalia, es ket legutobbi vilagbajnok Franciarszag es Nemetorszag verne minket bucira sajat közönsegunk elött Budapesten. Ennel nagyobb eges nincs, kiveve ha Romania kaszal el minket mar a play off-on. De fel a fejjel, buszke pödört bajusszal!!
+Kanerva taktikai hozzáértése, már az 5 meccses "próbaidős" melója alatt nyilvánvalóvá vált. Messze jobb eredményeket mutatott, mint a skót Baxter. A "fenyőfa formáció Mikka-Matti Paatalainen vagy a öreg svéd nagyobb név Hans Backe edző.
 
-Kicsit elemezzuk mar a magyar Rossi csapatot. Van ott kraft, csak ne legyen senki serulet es legyenek jatekban kispad helyett: Sallai, Szalai, Szoboszlai, Nagy Adam, Gulacsi, Orban. Akadnak jok, de az edzo a legjobb, a kopasz olasz. MARCO ROSSI.
+A Pukki féle csapat menetelése: Mindig 1 góllall nyertek, egy Pukki góllal. Sok bevándorló, focizó fiatalgenerációs tömegek adják az új foci felemelkedését.
 
-Plussz: A finnek ma napig összerzennek Magyarorszag mint futball ellenfel hallatan. Nem kitörölhetö az az 5 finn jatekos labat erintö kiesest jelentö öngol. Nem tudja, ez nekunk a jugoktol 1-12-es törtenelmi zakoval folytatodott...
-Sajat elmeny "Apu, en finn is vagyok" itt siras volt,  KI A JOBB? MAGYAROK obegataskor otthon. Azota finnek ellen nem hangolok, illetve csak halkan unneplem a golt.
-RICSI meselj, sződd bele a magyar megyei bajnokik hangulatat, mint ex player.
-Szojjuk bele azt is, hogy otthon, az alkoholadobol aki befolyik az allamnak, az csak 1/3 resze,ami kiadasa van az alkohol okozta gyogyaszati kezelesek koltsegeinek.
+## MAGYARVONATKOZÁSOK
+### ŐSEPOSZ
+Az Aranycsapat első komoly tornagyőzelmét itt aratta. Az egyik legszebben csillogó medál a másik 16 olimpiai arany mellett.
+*Egyik szerző (Marci): Nagyapámnak Dr. Kismartoni Károlynak is volt tanítványa ezen a helsinki olimpián. Ő kb 5-6 olimpián volt kint, mint a magyar atlétikai válogatott edzője. Fent van az 50 magyar mesteredző listán.
 
-## Tömegsportok
-És fura finn verzióik
+Szauna Szenátusunkból kettőnknek a magyar és a finn válogatott ütközetét is volt szerencsénk előben látni. Meccs előtt természetes SZAUNÁZVA hangoltunk a tamperei aréna melletti campingben.
 
-A hoki más kávéház, de foci, a baseball nem a nagy fizetesekrol szol, nincsenek is nagy szponzorok.
-A finneknek erre idejuk is van, mert rovidebb a munkaido.
-A finn alsobb ligak vilaga, ezek szervezodese mindenfele sportagakra. Nimenhuuto, Hobbydeed es ausztral, magyar sport tracking osszehasonlitas.
+Az egész EB lehet elmarad a koronavirus miatt, és akkor mindenki szívhatja a fogát... mert mi hiába nem jutunk ki, a többiek se fognak 😂. Van aki persze, már előre retteg, ha kijutnánk az is rossz... Igazi halálcsoportba kerülnénk a Ronaldós Portugália, és két legutóbbi világbajnok Franciaország és Németország verne minket bucira saját közönségünk elött Budapesten. Ennél nagyobb égés nincs, kivéve ha Románia kaszál el minket már a play off-on. De fel a fejjel, hinni kell magunkban jobban. Büszke pödört bajusszal odapörkünk bárkinek!!
 
-Picit vegigzongorazzuk a helyi tomegsportokat:
-`FUTSAL`, `JALKAPALLO` es a kismillio `DIVARI` (Stadinliiga, Harrastus, Ikämies, Pride Tournament)
-Futsalba eleg jok (20.-ak, magyarok 29.), Epp ma hetfön jatszik aa Futsal Vilagbajnoksagon Finnorszag Szerbiaval.
+Kicsit elemezzük már a magyar Rossi csapatot. Van ott kraft, csak ne jelentsen senki serület és legyenek játékban kispad helyett: Sallai, Szalai, Szoboszlai, Nagy Adám, Gulácsi, Orban. Akadnak jók, de az edző a legjobb. A kopasz olasz: MARCO ROSSI.
 
-A diviziokrol, nemzetközi klubbokrol sokat tudnek meselni, kerdezzetek!! 5 ev mexikoi, 3 ev finn es most nemet klubnal vagyok. Nem is beszelve a PAPRIKA FC-röl! Welcome Magyarok! Ha valakit erdekel, tart karokkal varjuk Nimenhuuton, Facebookon. "Unkarin potku"! Annyit tesz finnul: csipös es rug
+Plussz: A finnek ma napig összerzennek Magyarország mint futball ellenfél hallatán. Nem kitörölhető az az 5 finn játékos lábát érintő kiesést jelentő öngól 1998-ban. Nem tudják, ez nekünk a jugóktól 1-12-es történelmi zakóval folytatódott...Saját élmény lányommal (*szerző): "Apu, én finn is vagyok"– itt sírás volt... KI A JOBB? MAGYAROK! óbégatáskor otthon. Azóta finnek ellen nem hangolok, illetve csak halkan ünneplem a gólt.
 
-# Ringette
+Ricsi mesél, beleszövi a magyar megyei bajnokik hangulatat, mint ex player.
 
-Ringette- a nő verzioja a jegkorongnak, kicsit enyhebb szabalyokkal.
-SÄHLY
-Sähly, miert vilagbajnokok (2018 Praga), lehet-e telen sportolni? Annira benne van a jegen mozgas, szinte racsavarodnak a jatekosok a labdara. Ez olyan, mint a latinoknak a foci. A gyerekek kint fetrengenek a minuszban is a jegen, kb miutan jarni tudnak. Persze, tele vannak jobbnal jobb fedett csarnokokkal a varosok.
+Fontos megjegyzés: Otthon, az alkoholadóból ami befolyik az államnak, az csak 1/3 része bevétel, mint ami kiadása van az alkohol okozta gyógyászati kezelések költségeinek.
 
-# A Finn baseball - A Pesäpallo
+## TÖMEGSPORTOK
+### És fura Finn verzióik
+A hoki más kávéház, de foci, a baseball nem a nagy fizetésekről szól, nincsenek is nagy szponzorok. A finneknek erre idejük is van, mert rövidebb a munkaidő. A finn alsóbb ligák világa, ezek szerveződése mindenféle sportágakra. Nimenhuuto, Hobbydeed es ausztrál, magyar sport tracking összehasonlítás. Picit végigzongorázzuk a helyi tömegsportokat:
 
-A finn verzioja a baseballnak. Tehat egyszerubb szabalyrendszer, mint az amerikainak, tehat elvezhetobb jatszani. Onkenyesen megcsinaltak.
+## FUTSAL, JALKAPALLO...
+... és a kismillió "DIVARI" (Stadinliiga, Harrastus, Ikämies, Pride Tournament) Futsalba elég jók a derék finnek (20.-ak, magyarok 29.). Épp ma hétfön (az adás felvételekor) játszik a Futsal Világbajnokságon Finnország Szerbiával. Diskurzus diviziókról, nemzetközies amatőrklubbokról Helsinkiben mexikói, ázsiai és német klubbok.
 
-"Rendkívül gyorsan dobnak a játékosok, maga a játékmenet is pörgősebb a baseballnál".
-Nem véletlen, hogy az amerikai profi ligából (MLB) is érkeztek megfigyelők, hogy milyen elemeket lehetne átvenni.
+Nem is beszélve a PAPRIKA FC-ről! Welcome Magyarok! Ha valakit érdekel, tárt karokkal várjuk Nimenhuuton, Facebookon. "Unkarin potku"! A szójáték annyit tesz finnül: "csipős" és egyszerre "rúg".
 
-A finn baseballbajnokság 2016-os döntőjének legértékesebb játékosává (MVP) Munkácsi Gábort választották.
+## RINGETTE
+Ringette- a női verziója a jégkorongnak, kicsit enyhébb szabályokkal.
 
-A finnek általában egy szaunapartival ünnepelnek. Azaz 15-20 meztelen férfi ül egy forró szobában, izzad, és hihetetlen mennyiségű sört fogyaszt.”
+## SÄHLY
+Sähly, miért világbajnokok (2018 Prága). Lehet-e télen sportolni? Annyira benne van a jégen mozgás, szinte rácsavarodnak a játékosok a labdára. Ez olyan, mint a latinoknak a foci. A gyerekek kint fetrengenek a minuszban is a jégen. Kb miután járni tmegtanulnak, már mennek. Persze a városok, tele vannak jobbnál jobb fedett csarnokokkal.
 
+## FINN BASEBALL - A PESÄPALLO
+A finn verziója a baseballnak. Tehát egyszerűbb szabályrendszer, mint az amerikai, élvezhetőbb játszani. Önkényesen megcsinálták... "Rendkívül gyorsan dobnak a játékosok, maga a játékmenet is pörgősebb a baseballnál. Nem véletlen, hogy az amerikai profi ligából (MLB) is érkeztek megfigyelők, hogy milyen elemeket lehetne átvenni. A finnek általában egy szaunapartival ünnepelnek. Azaz 15-20 meztelen férfi ül egy forró szobában, izzad, és hihetetlen mennyiségű sört fogyaszt.” – Idézve a finn baseballbajnokság 2016-os döntőjének (MVP) legértékesebb játékosává választott Munkácsi Gábort.
 
-## Télisportok
+## TÉLISPORTOK
+Mi lehet különleges itt? Nyilván a sífutás, lesiklás már ahol van hegyszerűség. De a Lappföldön tavaszi napsütésben sielés az igazán menő!
 
-Mi lehet kulonleges itt? Nyilvan a sifutast, lesiklas mar ahol van hegyszeruseg. De a Lappfoldon tavaszi napsutesben sieles eleg menő!
+## MÖNKI ES MÖKKI
+Annyiba kerül a mökkibérlés, mintha Tájföldre mennél, és már egy évvvel elöbb betelnek a helyek. Na és a mönki. Ez nincs nagyon otthon. 100 km-rel repeszt a jégen. Ha hóbuckan átmész, akár 40 métert ugrathatsz a levegőben! Félelmetes lehet...
 
+## AUTÓSPORT
+Befagyott tengeren rallizás autóval. Ott a szél álltal összefújt buckákon borulhat fel a kocsi. Nem is beszélve nyáron a "minden finn férfiban megbúvó rally driver" az erdei utakon való padlógáz, fel-le a meredek emelkedőkön nagyon menő. Természetesen veszéyes is, hiszen még az elhagyatott helyeken is bárhol lehet sétalló ember.
 
-## Mökki és mökki
+## TÉLI AUTÓ FELSZERELÉS
+Az autóba, a jó finnnél nemcsak jéglékelő szerkezet van, fúró. Hanem egy zsinór, a végén két szöggel, ami egy fahengerben van. Egymás felé fordítva egymásba illeszthető, tehát nem szúr. Ez kerül a nyakba, ha elhagyod a kocsit, és jégre mész ez mindig veled kell legyen.Amikor a jég beszakad alattad, horgászatkor, vagy vegyük inkább a sporttéma miatt a sífutást befagyott tavon, tengeren. Ezzel jössz ki, úgy mint ahogy Münchausen báró a saját hajánál fogva húzta ki magát. Belevágod a jégbe az egyik kezed a másik után, és kint vagy!
 
-Annyiba kerul a mokkiberles, mintha Tajfoldre mennel, es mar egy evvvel elobb betelik
-Na es a mönkki Ez sincs otthon. 100 km -rel repeszt a jegen. Ha hobuckan atmesz, 40 metert ugratsz a levegoben! Felelmetes lehet...
-
-
-## Autosport
-
-Befagyott tengeren rallizast autoval. Ott is a szel alltal osszefujt buckakon borulhat fel a kocsi.
-Nem is beszelve nyaron a "minden finn ferfiban megbuvo rally driver" az erdei utakon valo full gaz, fel-le buckakon nagyon menő.
-A "gyepre lepni" tilos sztori (MARCI), amibel fulladni lehet a rohogestol. Tudok olyan magyar rallyversenyzöröl, aki 8 birsagot kapott par nap alatt, mert annyira durvak a sebessegkorlatozasok Finnbe.
-
-# Az autó téli felszerelései
-
-Más. Az autoba, a jo finnnel nemcsak jeglekelő szerkezet van, fúró
-Hanem egy zsinor, a vegen ket szoggel, ami egy fahengerben van, es egymas fele forditva egymasba illesztheto, tehat nem szur. Ez kerul a nyakba, ha elhagyod a kocsit , es jegre mesz.
-Amikor a jeg beszkad alattad, horgaszatkor vagy vegyuk inkabb a sporttema miatt a sifutast befagyott tavon, tengeren
-Nos ezzel jossz ki, ugy mint Münchausen báró a sajat hajanal fogva huzta ki magat
-Nos ez olyan, Belevagod a jegbe az egyik kezed a masik utan, es kint vagy!
-
- A foci sok embert nem erdekel, ezert nem "csak" foci a tema, hanem  a tomegsport mint udito jelenseg es a fura finn verziok a sportnemekre
-
-## FEMME FATAL
-Tomegek jarnak salsazni es sulyemelni, rudtancolni, valamint a "démoni" jógára.
+FEMME FATAL
+Tömegek járnak salsázni és súlyemelni, rúdtáncolni, valamint a "démoni" 😂 jógára.
 
 ---
 
