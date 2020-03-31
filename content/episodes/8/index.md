@@ -1,7 +1,7 @@
 ---
 title: Podcast episode 8
 slug: podcast-episode-8
-summary: 'Milyen a Finn fesztiválszezon?'
+summary: 'Angol – Magyar – Finn koronavírus körkép'
 id: szauna-szenatus-8
 number: 8
 # image: './teemupukki.jpg'
