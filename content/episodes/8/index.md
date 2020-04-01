@@ -4,7 +4,7 @@ slug: podcast-episode-8
 summary: 'Angol – Magyar – Finn koronavírus körkép'
 id: szauna-szenatus-8
 number: 8
-# image: './teemupukki.jpg'
+image: './covid.jpg'
 ---
 
 A rendhagyó adás lényege, hogy összehasonlítsuk a koronavírus helyzetet, és annak kezelését.
