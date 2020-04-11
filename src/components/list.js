@@ -10,7 +10,7 @@ import { FaPlay as PlayIcon } from "react-icons/fa"
 function List() {
   const data = useStaticQuery(graphql`
     query listQuery {
-      allEpisode {
+      allEpisode(sort: {fields: number, order: DESC}) {
         totalCount
         nodes {
           id
@@ -56,7 +56,7 @@ function List() {
           </div>
 
           <ul role="menu">
-          {data.allEpisode.nodes.reverse().map(episode => (
+          {data.allEpisode.nodes.map(episode => (
               <li
                 role="none"
                 key={episode.id}
