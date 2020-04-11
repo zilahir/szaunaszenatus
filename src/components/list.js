@@ -56,7 +56,7 @@ function List() {
           </div>
 
           <ul role="menu">
-            {data.allEpisode.nodes.map(episode => (
+          {data.allEpisode.nodes.reverse().map(episode => (
               <li
                 role="none"
                 key={episode.id}
