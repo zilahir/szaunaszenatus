@@ -2,6 +2,7 @@
 import React from "react"
 import { jsx } from "theme-ui"
 import Img from "gatsby-image"
+import Logo from '../images/szauna_szenatus_logo.png'
 import { graphql } from "gatsby"
 import { EpisodeConsumer } from "../components/context"
 import {
@@ -117,6 +118,9 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
                 </>
               )}
               <>
+                  <img src={Logo} alt="szauna szenátus" sx={{
+                    width: 100
+                  }} />
                   <h5>Mink</h5>
                   <ul>
                     <li>Ferenc Vilisics
