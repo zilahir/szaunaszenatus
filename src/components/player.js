@@ -212,12 +212,12 @@ export default class Player extends React.Component {
       <div
         sx={{
           position: "fixed",
+          zIndex: 1,
           width: "100%",
           color: "text",
           borderTop: "2px solid",
           borderColor: "background-lighten-10",
           backgroundColor: "background",
-          //height: 60,
           bottom: 0,
           left: 0,
           display: "flex",
@@ -247,6 +247,7 @@ export default class Player extends React.Component {
                 width: "100%",
                 maxWidth: 40,
                 height: 40,
+                ml: [10, 10, 0],
                 borderRadius: 1,
                 display: "flex",
                 alignItems: "center",
@@ -302,7 +303,7 @@ export default class Player extends React.Component {
 
           <div
             sx={{
-              ml: 35,
+              ml: [10, 10, 35],
               width: "100%",
               display: "flex",
               alignItems: "center",
@@ -356,6 +357,27 @@ export default class Player extends React.Component {
               {tooltipTime}
             </div>
           </div>
+
+          {/* <div className="player__section player__section--right">
+          <button
+            onClick={this.speedUp}
+            onContextMenu={this.speedDown}
+            className="player__speed"
+            type="button"
+          >
+            <p>FASTNESS</p>
+            <span className="player__speeddisplay">{playbackRate} &times;</span>
+          </button>
+        </div> */}
+          {/* <div
+          className="player__volume"
+          style={{ display: "flex", width: "100%" }}
+        >
+          <p>LOUDNESS</p>
+          <div className="player__inputs">
+            <VolumeBars volume={this.volume} />
+          </div>
+        </div> */}
           <audio
             ref={audio => (this.audio = audio)}
             onPlay={this.playPause}

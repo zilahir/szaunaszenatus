@@ -2,6 +2,7 @@
 import React from "react"
 import { jsx } from "theme-ui"
 import Img from "gatsby-image"
+import Logo from '../images/szauna_szenatus_logo.png'
 import { graphql } from "gatsby"
 import { EpisodeConsumer } from "../components/context"
 import {
@@ -13,6 +14,7 @@ import Markdown from "react-markdown"
 import spotifyIcon from "../images/spotify.svg"
 import itunesIcon from "../images/apple.svg"
 import spotifyImage from "../images/Spotify_Logo_RGB_Green.png"
+import googlePodcasts from "../images/google_podcasts.png"
 import Header from "../components/episodeHeader"
 import Icon from 'react-icons-kit'
 import { instagram } from 'react-icons-kit/feather/instagram'
@@ -22,9 +24,9 @@ import { globe } from 'react-icons-kit/feather/globe'
 import { droplet } from 'react-icons-kit/feather/droplet'
 import { twitter } from 'react-icons-kit/feather/twitter'
 
+
 function EpisodeTemplate({ data: { episode, markdownRemark } }) {
   const image = markdownRemark && markdownRemark.frontmatter.image
-  console.debug('image', image)
   const markdown = markdownRemark && markdownRemark
 
   // const playbtn = React.useRef(null)
@@ -32,18 +34,18 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
   //   playbtn.current.focus()
   // }, [])
 
-  console.debug('markdownRemark', markdownRemark)
   return (
     <EpisodeConsumer>
       {context => (
         <>
-          <div sx={{ display: "flex" }}>
+          <div sx={{ display: "flex", flexDirection: ['column', 'column', 'row'] }}>
             <div sx={{ maxWidth: 710 }}>
               <Header context={context} episode={episode} image={image} />
               <article
                 sx={{
                   p: 40,
-                  pb: 100,
+                  pb: [0, 0, 100],
+                  mb: [30, 30, 0],
                   borderLeft: "2px solid",
                   borderRight: "2px solid",
                   borderColor: "background-lighten-10",
@@ -59,7 +61,8 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
               sx={{
                 p: 40,
                 width: "100%",
-                maxWidth: 250,
+                maxWidth: ["100%", "100%", 250],
+                mb: [30, 30, 0],
                 fontSize: "15px",
                 h5: { mt: 15, mb: 10, fontSize: 3 },
                 "h5:not(:first-of-type)": { mb: 10, mt: 0 },
@@ -71,18 +74,41 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
                   a: { color: "text", textDecoration: "none" },
                 }}
               >
-                <a
+                <Link
                   sx={{
                     mb: 20,
                     display: "flex",
                     alignItems: "center",
                     img: { m: 0, mr: 10 },
                   }}
-                  href="https://open.spotify.com/show/417L1NONwduvFydJ5WBOrP?si=DdQfUqrnTPa_oRwrKoZMeg"
-                  target="_blank"
+                  to="https://open.spotify.com/show/417L1NONwduvFydJ5WBOrP"
                 >
                   <img src={spotifyImage} width="90" />
-                </a>
+                </Link>
+                <Link
+                  sx={{
+                    mb: 20,
+                    display: "flex",
+                    alignItems: "center",
+                    img: { m: 0, mr: 10 },
+                  }}
+                  to="/"
+                >
+                  <img src={itunesIcon} />
+                  Apple Podcasts
+                </Link>
+                <Link
+                  sx={{
+                    mb: 20,
+                    display: "flex",
+                    alignItems: "center",
+                    img: { m: 0, mr: 10 },
+                  }}
+                  to="https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy82ZTEzZmIwL3BvZGNhc3QvcnNz"
+                >
+                  <img src={googlePodcasts} />
+                  Google Podcasts
+                </Link>
               </div>
               {markdown && (
                 <>
@@ -91,9 +117,10 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
                       sx={{
                         display: "flex",
                         flexDirection: "column",
+                        //alignItems: "center",
                       }}
                     >
-                      <h5>Vendég</h5>
+                      <h5>Guest</h5>
 
                       {markdown.frontmatter.guestPhoto && (
                         <Img
@@ -117,6 +144,9 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
                 </>
               )}
               <>
+                  <img src={Logo} alt="szauna szenátus" sx={{
+                    width: 100
+                  }} />
                   <h5>Mink</h5>
                   <ul>
                     <li>Ferenc Vilisics
@@ -191,9 +221,7 @@ function EpisodeTemplate({ data: { episode, markdownRemark } }) {
               </>
               {markdown && markdown.frontmatter.resources && (
                 <>
-                  {
-                    markdown.frontmatter.resources.length ? <h5>Linkek az adásból</h5> : null
-                  }
+                  <h5>Resources</h5>
                   <ul>
                     {markdownRemark.frontmatter.resources.map(resource => (
                       <li

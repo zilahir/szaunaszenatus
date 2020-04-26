@@ -5,6 +5,7 @@ summary: 'FesztiVálság'
 id: szauna-szenatus-9
 number: 9
 image: './fesztival.jpg'
+guestName: 'Daniel Arvai'
 ---
 
 Mostani adásunkban is mindenki szeparáltan, Google hangoutsal összekötve vesz részt.

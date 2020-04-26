@@ -86,7 +86,7 @@
       "href": "",
       "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
       "enclosure_url": "https://szaunaszenatus.s3-eu-west-1.amazonaws.com/ep02.mp3",
-      "description": "Hogy kerül a tobzoska a tányérra? Tudós vendégünkkel a koronavírusrol és az illegális allatkereskedelemrol beszélgetünk, de szó esik a klímaváltozásról és gr Festetics Imréről, aki világhírű is lehetne akár, csakhogy...",
+      "description": "Hogy kerül a tobzoska a tányérra? Tudós vendégünkkel a koronavírusrol és az illegális állatkereskedelemről beszélgetünk, de szó esik a klímaváltozásról és gr Festetics Imréről, aki világhírű is lehetne akár, csakhogy...",
       "analytics": {
         "href": ""
       }
@@ -243,6 +243,58 @@
       "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
       "enclosure_url": "https://szaunaszenatus.s3-eu-west-1.amazonaws.com/ep02.mp3",
       "description": "",
+      "analytics": {
+        "href": ""
+      }
+    },
+    {
+      "updated_at": "2020-02-05T21:18:37.988516-07:00",
+      "type": "full",
+      "token": "GRGoBLV0",
+      "title": "Kedvenc úticélok Finnországban - 1. rész - Uusimaa",
+      "status": "published",
+      "slug": "podcast-episode-10",
+      "season": {
+        "href": "",
+        "number": 1
+      },
+      "scheduled_for": null,
+      "published_at": "2020-02-05T21:18:37.988516-07:00",
+      "number": 10,
+      "is_hidden": false,
+      "image_url": "",
+      "image_path": "",
+      "id": "szauna-szenatus-10",
+      "href": "",
+      "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
+      "enclosure_url": "",
+      "description": "Uusimaa Dél-Finnország tartománya, ahol az ország 5,5 millió lakosa közül 1,5 millió él. A koronavírus elleni védekezés következményeképpen a finn kormány, Uusima tartomány közigazgatási határait március 25-én lezárta. Ennek apropójaként átbeszéljük, hogy mit lehet Uusimában csinálni, milyen nevezetességek, és kirándulóhelyek vannak. ",
+      "analytics": {
+        "href": ""
+      }
+    },
+    {
+      "updated_at": "2020-02-05T21:18:37.988516-07:00",
+      "type": "full",
+      "token": "GRGoBLV0",
+      "title": "Kedvenc úticélok Finnországban - 2. rész - Vidék és Vadon",
+      "status": "published",
+      "slug": "podcast-episode-11",
+      "season": {
+        "href": "",
+        "number": 1
+      },
+      "scheduled_for": null,
+      "published_at": "2020-02-05T21:18:37.988516-07:00",
+      "number": 11,
+      "is_hidden": false,
+      "image_url": "",
+      "image_path": "",
+      "id": "szauna-szenatus-11",
+      "href": "",
+      "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
+      "enclosure_url": "",
+      "description": "A finnországi úticélainkról szóló 2. epizódban kimerészkedünk picit Uusimaa-ból, és messzebbre elkalandozunk",
       "analytics": {
         "href": ""
       }
