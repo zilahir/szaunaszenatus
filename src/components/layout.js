@@ -12,12 +12,12 @@ function Layout({ children }) {
         sx={{
           p: 0,
           display: "flex",
-          flexGrow: "1",
+          flexDirection: ['column', 'column', 'row'],
         }}
       >
         <List />
 
-        <main sx={{ width: "100%", marginLeft: 20 }}>{children}</main>
+        <main sx={{ width: "100%", marginLeft: [0, 0, 20] }}>{children}</main>
       </Container>
     </Wrapper>
   )

@@ -272,6 +272,32 @@
       "analytics": {
         "href": ""
       }
+    },
+    {
+      "updated_at": "2020-02-05T21:18:37.988516-07:00",
+      "type": "full",
+      "token": "GRGoBLV0",
+      "title": "Kedvenc úticélok Finnországban - 2. rész - Vidék és Vadon",
+      "status": "published",
+      "slug": "podcast-episode-11",
+      "season": {
+        "href": "",
+        "number": 1
+      },
+      "scheduled_for": null,
+      "published_at": "2020-02-05T21:18:37.988516-07:00",
+      "number": 11,
+      "is_hidden": false,
+      "image_url": "",
+      "image_path": "",
+      "id": "szauna-szenatus-11",
+      "href": "",
+      "guid": "a985054e-dc9b-45dd-93c9-3691c3690bec",
+      "enclosure_url": "",
+      "description": "A finnországi úticélainkról szóló 2. epizódban kimerészkedünk picit Uusimaa-ból, és messzebbre elkalandozunk",
+      "analytics": {
+        "href": ""
+      }
     }
   ],
   "average_duration": 1994.26
