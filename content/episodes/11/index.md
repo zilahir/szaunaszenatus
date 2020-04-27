@@ -32,7 +32,7 @@ A koronavírustól tartva Uusimaa jelenleg lezárva, csak a teherforgalom szám�
 
 Túraötlet: biciklivel jó lehetne végigtekerni a kis szigeteken.
 
-### TÓVIDÉK
+### Tóvidék
 
 Két óriási vízrendszer: [Päijänne](https://en.wikipedia.org/wiki/Lake_P%C3%A4ij%C3%A4nne) - [Vesijärvi](https://en.wikipedia.org/wiki/Vesij%C3%A4rvi) rendszeren Lahtitól Jyväskyläig lehet menni hajóval
 
@@ -43,7 +43,7 @@ TURIZMUS ezerrel:
 - Hajósélet, horgászat
 - Természeti kincsek: pl. [Saimaa](https://en.wikipedia.org/wiki/Saimaa) gyűrűsfóka egyetlen élőhelye
 
-### LAPPFÖLD
+### Lappföld
 
 Ha Lappföldre gondolok, akkor rénszarvas jut eszembe és a hideg.
 
