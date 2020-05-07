@@ -7,7 +7,7 @@ number: 11
 image: './poro.jpg'
 ---
 
-### A Tartaomból
+### A Tartalomból
 
 Mostani adásunkban is mindenki szeparáltan, Google Hangoutsal összekötve vesz részt.
 Finnországból a szokásos helyi szaunások: Ricsi, Feri, Marci.
